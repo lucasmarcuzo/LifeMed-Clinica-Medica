@@ -9,6 +9,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Apache Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=flat&logo=apache%20netbeans%20IDE&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 ## 📱 Contato:
 
