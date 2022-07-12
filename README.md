@@ -33,7 +33,7 @@
 
 ## 📃Licenças:
 
-![MIT License](https://img.shields.io/github/license/lucasmarcuzo/LifeMed)
+![MIT License](https://img.shields.io/github/license/lucasmarcuzo/LifeMed-Clinica-Medica)
 
 <div align="right"> <h3> - Obrigado pela Visita ✌🏻 </h3> </div> 
 <p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id=lucasmarcuzo/LifeMed"> </h3> </p>
